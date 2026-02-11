@@ -1,16 +1,23 @@
-## Hi there 👋
+# 你好，我是黄嘉颖 👋
 
-<!--
-**huangjy0920/huangjy0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
+- 华南理工大学本硕在读，硕士研究方向：社区养老服务
+- 🌟 个人特质：
+  - 具备沉心研究的定力与自主学习意识（如零基础尝试搭建个人网站）
+  - 积极务实的解决型思维，专注问题解决而非抱怨（典型的处女座行动力）
+  - 拥有优质的视觉审美能力，擅长原型设计、PPT 等可视化表达（获实习导老板认可）
+ 
 
-Here are some ideas to get you started:
+## 核心技能
+- **文档与协作**：Word / Excel / PPT / WPS / 飞书 / 石墨文档
+- **调研与分析**：用户访谈、需求梳理、报告撰写、文献整理
+- **设计与可视化**：XMind 思维导图、Axure 原型设计、可视化图表制作
+- **学习能力**：零基础快速上手新工具/技能（如 GitHub、个人网站搭建）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 研究与实践
+- 硕士研究：聚焦社区养老服务领域，探索服务供需匹配与流程优化
+- 实习经历：凭借可视化能力与解决型思维完成产品相关实习工作
+
+## 联系方式
+- GitHub: https://github.com/huangjy0920
+- Email:  jhuang0920@163.com
