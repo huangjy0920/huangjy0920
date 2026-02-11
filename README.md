@@ -20,4 +20,4 @@
 
 ## 联系方式
 - GitHub: https://github.com/huangjy0920
-- Email:  jhuang0920@163.com
+- Email:  jyhuang0920@163.com
